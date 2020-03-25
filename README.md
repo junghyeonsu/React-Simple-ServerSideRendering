@@ -11,5 +11,5 @@ npm install
 > client 폴더
 
 ```
-
+npm install
 ```
