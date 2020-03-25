@@ -13,3 +13,13 @@ npm install
 ```
 npm install
 ```
+
+reducers , react-redux , redux, redux-promise 등.. 라이브러리가 안깔려있을수도있음
+
+그런다음 보일러플레이트 폴더에서
+
+```
+npm run dev
+```
+
+실행
